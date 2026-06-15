@@ -1,6 +1,8 @@
-# KA-RADAR (Arduino-Soundar)
+KA-RADAR (Arduino-Soundar)
 
 An Arduino-based ultrasonic radar that sweeps an HC-SR04 sensor across a 180-degree servo arc, reports angle and distance in real time over serial, and drives a proximity alarm buzzer whose beep rate increases as a target closes. Built from components, soldered, and programmed in embedded C.
+
+<img width="4284" height="4922" alt="IMG_3226" src="https://github.com/user-attachments/assets/a6da49b7-28e0-48f8-95db-c3c118815e03" />
 
 Overview
 
