@@ -50,7 +50,6 @@ Repository structure
 .
 ├── src/            # Arduino firmware (embedded C / .ino)
 ├── visualiser/     # optional: Processing sketch for the radar display
-├── docs/           # optional: photos, wiring diagram, captures
 └── README.md
 
 Build and run
